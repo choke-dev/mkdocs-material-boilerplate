@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/main/docs_sample/images/graduate-cap.png" alt="MkDocs icon" width="170">
-<br>MkDocs Material<br>Boilerplate - Starter Kit
+<br>This documentation page is under construction!<br>~choke
 </h1>
 
 ![Eyecatch image of MkDocs Material Boilerplate (Starter Kit)](https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/main/docs_sample/images/material.png)
