@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://mkdocs.peaceiris.com/</loc>
+         <loc>https://chokes.software/</loc>
          <lastmod>2021-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/license/</loc>
+         <loc>https://chokes.software/license/</loc>
          <lastmod>2021-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/EasierLua/Introduction/</loc>
+         <loc>https://chokes.software/EasierLua/Introduction/</loc>
          <lastmod>2021-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/extensions/code-hilite/</loc>
+         <loc>https://chokes.software/extensions/code-hilite/</loc>
          <lastmod>2021-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/extensions/footnote/</loc>
+         <loc>https://chokes.software/extensions/footnote/</loc>
          <lastmod>2021-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/extensions/mathjax/</loc>
+         <loc>https://chokes.software/extensions/mathjax/</loc>
          <lastmod>2021-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/getting-started/docker/</loc>
+         <loc>https://chokes.software/getting-started/docker/</loc>
          <lastmod>2021-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/getting-started/download-boilerplate/</loc>
+         <loc>https://chokes.software/getting-started/download-boilerplate/</loc>
          <lastmod>2021-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/getting-started/invoke/</loc>
+         <loc>https://chokes.software/getting-started/invoke/</loc>
          <lastmod>2021-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/getting-started/pip/</loc>
+         <loc>https://chokes.software/getting-started/pip/</loc>
          <lastmod>2021-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/getting-started/pipenv/</loc>
+         <loc>https://chokes.software/getting-started/pipenv/</loc>
          <lastmod>2021-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/hosting-and-deployment/aws-amplify-console/</loc>
+         <loc>https://chokes.software/hosting-and-deployment/aws-amplify-console/</loc>
          <lastmod>2021-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/hosting-and-deployment/combinations/</loc>
+         <loc>https://chokes.software/hosting-and-deployment/combinations/</loc>
          <lastmod>2021-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/hosting-and-deployment/github-pages/</loc>
+         <loc>https://chokes.software/hosting-and-deployment/github-pages/</loc>
          <lastmod>2021-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/hosting-and-deployment/gitlab-pages/</loc>
+         <loc>https://chokes.software/hosting-and-deployment/gitlab-pages/</loc>
          <lastmod>2021-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/hosting-and-deployment/netlify/</loc>
+         <loc>https://chokes.software/hosting-and-deployment/netlify/</loc>
          <lastmod>2021-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
