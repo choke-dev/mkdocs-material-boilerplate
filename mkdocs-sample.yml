@@ -68,6 +68,7 @@ extra:
 nav:
   - "Home": "index.md"
   - "EasierLua": "EasierLua/Introduction.md"
+      - "Getting Started": "EasierLua/getting-started.md"
   - "Getting started":
       - "Download boilerplate": "getting-started/download-boilerplate.md"
       - "pipenv": "getting-started/pipenv.md"
