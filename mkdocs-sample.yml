@@ -1,15 +1,15 @@
 # Project information
 site_name: "MkDocs Material Boilerplate"
 site_description: "MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions."
-site_author: "peaceiris"
-site_url: "https://mkdocs.peaceiris.com/"
+site_author: "choke"
+site_url: "https://chokes.software"
 
 # Copyright
 copyright: "&copy; 2019 peaceiris"
 
 # Repository
 repo_name: "GitHub"
-repo_url: "https://github.com/peaceiris/mkdocs-material-boilerplate"
+repo_url: "https://github.com/choke-dev/mkdocs-material-boilerplate"
 edit_uri: "https://github.com/choke-dev/mkdocs-material-boilerplate/edit/main/docs_sample"
 
 # Configuration
@@ -67,7 +67,7 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
-  - "Material for MkDocs": "material-for-mkdocs.md"
+  - "EasierLua": "EasierLua/Introduction.md"
   - "Getting started":
       - "Download boilerplate": "getting-started/download-boilerplate.md"
       - "pipenv": "getting-started/pipenv.md"
