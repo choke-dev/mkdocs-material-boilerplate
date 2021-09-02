@@ -67,7 +67,8 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
-  - "EasierLua": "EasierLua/Introduction.md"
+  - "EasierLua":
+      - "Introduction": "EasierLua/Introduction.md"
       - "Getting Started": "EasierLua/getting-started.md"
   - "Hosting and Deployment":
       - "Combinations": "hosting-and-deployment/combinations.md"
