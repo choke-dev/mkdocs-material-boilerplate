@@ -8,8 +8,6 @@
 
 
 [![license](https://img.shields.io/github/license/choke-dev/mkdocs-material-boilerplate.svg)](https://github.com/choke-dev/mkdocs-material-boilerplate/blob/main/LICENSE)
-[![release](https://img.shields.io/github/release/choke-dev/mkdocs-material-boilerplate.svg)](https://github.com/choke-dev/mkdocs-material-boilerplate/releases/latest)
-[![GitHub release date](https://img.shields.io/github/release-date/choke-dev/mkdocs-material-boilerplate.svg)](https://github.com/choke-dev/mkdocs-material-boilerplate/releases)
 [![GitHub Actions status](https://github.com/choke-dev/mkdocs-material-boilerplate/workflows/github%20pages/badge.svg)](https://github.com/choke-dev/mkdocs-material-boilerplate/actions)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8caca993-cb34-4ebc-a052-7ce764b94bcf/deploy-status)](https://app.netlify.com/sites/silly-heisenberg-f80d70/deploys)
