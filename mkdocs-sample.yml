@@ -5,7 +5,7 @@ site_author: "choke"
 site_url: "https://chokes.software"
 
 # Copyright
-copyright: "&copy; 2019 peaceiris"
+copyright: ""
 
 # Repository
 repo_name: "GitHub"
@@ -61,9 +61,7 @@ extra:
   manifest: "manifest.json"
   social:
     - icon: "fontawesome/brands/github-alt"
-      link: "https://github.com/peaceiris"
-    - icon: "fontawesome/brands/twitter"
-      link: "https://twitter.com/piris314en"
+      link: "https://github.com/choke-dev"
 
 # Page tree
 nav:
