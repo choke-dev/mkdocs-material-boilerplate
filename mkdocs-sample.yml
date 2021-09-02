@@ -1,5 +1,5 @@
 # Project information
-site_name: "MkDocs Material Boilerplate"
+site_name: "choke's Documentation"
 site_description: "MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions."
 site_author: "choke"
 site_url: "https://chokes.software"
