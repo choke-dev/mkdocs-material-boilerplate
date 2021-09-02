@@ -23,6 +23,7 @@ theme:
     previous: 80 # p
     search: 83 # s
   palette:
+    scheme: "slate"
     primary: "blue"
     accent: "blue"
   features:
